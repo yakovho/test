@@ -1,4 +1,4 @@
-console.log("1")
+console.log("main")
 
 class demo {
     constructor(name) {
