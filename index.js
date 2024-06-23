@@ -13,3 +13,5 @@ let one = new demo(5);
 console.log(one.avg());
 
 console.log("5555");
+
+console.log("5555");
